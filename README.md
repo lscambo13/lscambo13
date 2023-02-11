@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 It's Amritpal aka lscambo13
 
+- 🔭 I’m currently working on my own website, called Casa Mia
+- 🌱 I’m currently learning web development
 <!--
 **lscambo13/lscambo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
