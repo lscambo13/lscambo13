@@ -1,4 +1,5 @@
-### Hi there 👋 It's Amritpal aka lscambo13
+### Hi there 👋
+## It's Amritpal, aka lscambo13
 
 - 🔭 I’m currently working on my own website, called Casa Mia
 - 🌱 I’m currently learning web development
