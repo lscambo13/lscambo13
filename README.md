@@ -1,19 +1,19 @@
 ### Hi there 👋
 ## It's Amritpal, aka lscambo13
 
-🌱 I’m currently learning web development
+#### 🌱 I’m currently learning web development
 
-🛠️ I’m interested in modding and creating my own stuff
+#### 🛠️ I’m interested in modding and creating my own stuff
 
-🤖 I have some experience with Android modding and app development
+#### 🤖 I have some experience with Android modding and app development
 
-🏠 I’ve designed and created on my own website from scratch, called [Casa Mia](casamia.cambo.in)
+#### 🏠 I’ve designed and created on my own website from scratch, called [Casa Mia](https://casamia.cambo.in)
 
-📈 I’ve created a custom Rivatuner Statistics Overlay, called [Elegant Mustard](https://github.com/lscambo13/ElegantMustard)
+#### 📈 I’ve created a custom Rivatuner Statistics Overlay, called [Elegant Mustard](https://github.com/lscambo13/ElegantMustard)
 
-▶️ I'm currently working on a custom CSS theme for Jellyfin, called [ElegantFin](https://github.com/lscambo13/ElegantFin/)
+#### ▶️ I'm currently working on a custom CSS theme for Jellyfin, called [ElegantFin](https://github.com/lscambo13/ElegantFin/)
 
-<br>
+<hr>
 
   ![](https://github-readme-stats.vercel.app/api?username=lscambo13\&include_all_commits=true\&theme=catppuccin_latte)
   
