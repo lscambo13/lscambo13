@@ -7,7 +7,7 @@
 
 🤖 I have some experience with Android modding and app development
 
-🏠 I’ve designed and created on my own website, called [Casa Mia](casamia.cambo.in)
+🏠 I’ve designed and created on my own website from scratch, called [Casa Mia](casamia.cambo.in)
 
 📈 I’ve created a custom Rivatuner Statistics Overlay, called [Elegant Mustard](https://github.com/lscambo13/ElegantMustard)
 
